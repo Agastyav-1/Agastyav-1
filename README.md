@@ -12,13 +12,13 @@ Java developer
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Eclipse" /></a>
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Agastyav-1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/a_g_a_s_t_y_a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agastya-valambatla-316566136" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Agastyav-1" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/danleech/simple/1024/github-icon.png" width="32" height="32" /></a> <a href="http://www.instagram.com/a_g_a_s_t_y_a" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/danleech/simple/1024/facebook-icon.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/agastya-valambatla-316566136" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/512/Linkedin-icon.png" width="32" height="32" /></a></p>
 
 ### Badges
 
