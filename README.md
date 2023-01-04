@@ -1,7 +1,7 @@
 Hi 👋 My name is Agastya valambatla
 ===================================
 
-Python developer
+Java developer
 ----------------
 
 * 🌍  I'm based in Hyderabad,India
