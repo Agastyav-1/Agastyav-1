@@ -10,9 +10,9 @@ Java developer
 ### Skills
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Eclipse" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/neiio/prime-dock-2/256/C-icon.png" width="36" height="36" alt="C" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png" width="36" height="36" alt="Python" /></a>
+<a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" width="36" height="36" alt="Eclipse" /></a>
 </p>
 
 
