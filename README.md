@@ -4,8 +4,8 @@ Hi 👋 My name is Agastya valambatla
 Java developer
 ----------------
 
-* 🌍  I'm based in Hyderabad,India
-* ✉️  You can contact me at [agastyavalambatla.p@gmail.com](mailto:agastyavalambatla.p@gmail.com)
+* 🌍  I'm based in Dover,NH
+* ✉️  You can contact me at [agastyavalambatla@gmail.com](mailto:agastyavalambatla@gmail.com)
 
 ### Skills
 
