@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agastyav-1&theme=algolia&no-bg=true&margin-w=10&margin-h=10" alt="trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agastyav-1&theme=algolia&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" /></a>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7CFFCB&center=true&vCenter=true&width=500&lines=I+turn+data+into+decisions;I+love+Python%2C+SQL%2C+Azure%2C+and+Databricks;Always+learning+and+building" alt="Skills summary" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=7CFFCB&center=true&vCenter=true&width=500&lines=I+turn+data+into+decisions;I+love+Python%2C+SQL%2C+Azure%2C+and+Databricks;Always+learning+and+building" alt="Animated skills summary" />
 </p>
 
 <hr>
@@ -33,9 +33,9 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
@@ -46,23 +46,25 @@
 
 <hr>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agastyav-1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agastyav-1&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Agastya's GitHub stats, including contribution icons" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=agastyav-1&show_icons=true&theme=radical&locale=en" alt="GitHub stats" />
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agastyav-1&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Agastya's most used programming languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyav-1&theme=radical&hide_border=false" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agastyav-1&theme=radical&hide_border=true" alt="Agastya's GitHub contribution streak" />
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" alt="wave" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="Waving hand" />
   <strong>Thanks for visiting my profile!</strong>
 </p>
